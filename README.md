@@ -4,7 +4,7 @@
 
 ### Hi there 👋, I'm Hector!
 
-I'm an Electronic Engineer and aspiring AI/ML Engineer with extensive experience in telecommunications and software engineering. I have Master's Degree in Artificial Intelligence and I am currently completing a Bachelor's in Psychology. My goal is to leverage this unique combination to build innovative, ethical, and user-centric AI solutions.
+I'm an Electronic Engineer with extensive experience in telecommunications and software engineering. I have Master's Degree in Artificial Intelligence and I am currently completing a Bachelor's in Psychology. My goal is to leverage this unique combination to build innovative, ethical, and user-centric AI solutions.
 
 ---
 
